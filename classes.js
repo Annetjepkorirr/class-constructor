@@ -115,7 +115,7 @@ class Quiz {
 }
 const quiz = new Quiz()
 const question1 = new Question(
-    "What is your name?"
+    "What is your name please?"
     ["Annet","Pauline","Faith","Nat"],
     "Nat"
   );
